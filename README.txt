@@ -30,7 +30,7 @@ La página principal incluye una presentación personal, un avatar, información
 3. URL DE ACCESO
 --------------------------------------------------
 
-URL del portfolio: http://IP/usuarioXX/
+URL del portfolio: http://salescoruna.ddns.net/alejandro.rocha/Tic2-Practica3/
 
 Fecha de publicación: 27/11/2026
 
